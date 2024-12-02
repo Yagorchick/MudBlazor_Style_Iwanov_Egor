@@ -1,0 +1,55 @@
+﻿@page "/courses"
+
+<MudContainer MaxWidth="MaxWidth.Large">
+    <MudPaper Elevation="1" Class="pa-4">
+        <h1>Наши Курсы</h1>
+
+        <MudGrid>
+            <MudItem xs="12" sm="6" md="4" lg="3" v-for="course in courses">
+                <MudCard>
+                    <MudCardMedia Image="https://vjazalochki.ru/wp-content/uploads/2023/07/snud-spiczami-65-300x200.jpg" Title="Вязание для начинающих" />
+                    <MudCardContent>
+                        <MudText Typo="Typo.h6">Вязание для начинающих</MudText>
+                        <MudText>Научитесь основам вязания и создайте свои первые изделия.</MudText>
+                    </MudCardContent>
+                </MudCard>
+            </MudItem>
+
+            <MudItem xs="12" sm="6" md="4" lg="3">
+                <MudCard>
+                    <MudCardMedia Image="https://www.rukovechka.ru/pictures/b/bm3005_1.jpg" Title="Вышивка крестом" />
+                    <MudCardContent>
+                        <MudText Typo="Typo.h6">Вышивка крестом</MudText>
+                        <MudText>Изучите техники вышивки и создайте уникальные дизайны.</MudText>
+                    </MudCardContent>
+                </MudCard>
+            </MudItem>
+
+            <MudItem xs="12" sm="6" md="4" lg="3">
+                <MudCard>
+                    <MudCardMedia Image="https://avatars.mds.yandex.net/i?id=76a090c910d36f2a7932e5caaa000d36_sr-5869619-images-thumbs&n=13" Title="Работа с керамикой" />
+                    <MudCardContent>
+                        <MudText Typo="Typo.h6">Работа с керамикой</MudText>
+                        <MudText>Научитесь создавать уникальные керамические изделия.</MudText>
+                    </MudCardContent>
+                </MudCard>
+            </MudItem>
+        </MudGrid>
+    </MudPaper>
+</MudContainer>
+
+@code {
+    private List<Course> courses = new List<Course>
+    {
+        new Course { Title = "Вязание для начинающих", ImagePath = "https://vjazalochki.ru/wp-content/uploads/2023/07/snud-spiczami-65-300x200.jpg", Description = "Научитесь основам вязания и создайте свои первые изделия." },
+        new Course { Title = "Вышивка крестом", ImagePath = "https://www.rukovechka.ru/pictures/b/bm3005_1.jpg", Description = "Изучите техники вышивки и создайте уникальные дизайны." },
+        new Course { Title = "Работа с керамикой", ImagePath = "https://avatars.mds.yandex.net/i?id=76a090c910d36f2a7932e5caaa000d36_sr-5869619-images-thumbs&n=13", Description = "Научитесь создавать уникальные керамические изделия." }
+    };
+
+    public class Course
+    {
+        public string Title { get; set; }
+        public string ImagePath { get; set; }
+        public string Description { get; set; }
+    }
+}

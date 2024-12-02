@@ -1,0 +1,32 @@
+﻿@page "/contact"
+@using MudBlazor
+
+<MudContainer MaxWidth="MaxWidth.Large" Class="mt-4">
+    <MudTypography Variant="h1" Align="Align.Center">Контакты</MudTypography>
+
+    <MudForm>
+        <MudTextField Label="Имя" Required="true" For="@(() => name)" />
+        <MudTextField Label="Email" Required="true" Type="email" For="@(() => email)" />
+        <MudTextField Label="Сообщение" Required="true" For="@(() => message)" Rows="5" />
+
+        <MudButton Color="Color.Primary" Variant="Variant.Outlined" OnClick="HandleSubmit">Отправить</MudButton>
+    </MudForm>
+    <MudContainer MaxWidth="MaxWidth.Medium">
+    <MudCardHeader>
+        <MudText Typo="Typo.h5">Вы также можете связаться с нами по электронной почте:</MudText>
+            <MudText Typo="Typo.body1">info@yourdomain.com</MudText>
+    </MudCardHeader>
+    </MudContainer>
+</MudContainer>
+
+@code {
+    private string name;
+    private string email;
+    private string message;
+
+    private void HandleSubmit()
+    {
+        // Логика обработки отправки формы
+        // Например, отправка сообщения на сервер или вывод сообщения об успехе
+    }
+}

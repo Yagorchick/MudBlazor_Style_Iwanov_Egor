@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|c:\\users\\user\\desktop\\24\u0438\u0441-11-2\\yaga\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0440\u0430\u0431\u043E\u0447\u0438\u0435)\\clean\\blazorserver_net6_iwanov_egor\\pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|solutionrelative:pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|c:\\users\\user\\desktop\\24\u0438\u0441-11-2\\yaga\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0440\u0430\u0431\u043E\u0447\u0438\u0435)\\clean\\blazorserver_net6_iwanov_egor\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|solutionrelative:pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|c:\\users\\user\\desktop\\24\u0438\u0441-11-2\\yaga\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0440\u0430\u0431\u043E\u0447\u0438\u0435)\\clean\\blazorserver_net6_iwanov_egor\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|c:\\users\\user\\desktop\\24\u0438\u0441-11-2\\yaga\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0440\u0430\u0431\u043E\u0447\u0438\u0435)\\clean\\blazorserver_net6_iwanov_egor\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|solutionrelative:pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|c:\\users\\user\\desktop\\24\u0438\u0441-11-2\\yaga\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0440\u0430\u0431\u043E\u0447\u0438\u0435)\\clean\\blazorserver_net6_iwanov_egor\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|solutionrelative:shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|c:\\users\\user\\desktop\\24\u0438\u0441-11-2\\yaga\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0440\u0430\u0431\u043E\u0447\u0438\u0435)\\clean\\blazorserver_net6_iwanov_egor\\pages\\blog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|solutionrelative:pages\\blog.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|c:\\users\\user\\desktop\\24\u0438\u0441-11-2\\yaga\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0440\u0430\u0431\u043E\u0447\u0438\u0435)\\clean\\blazorserver_net6_iwanov_egor\\pages\\adduser.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|solutionrelative:pages\\adduser.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|c:\\users\\user\\desktop\\24\u0438\u0441-11-2\\yaga\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0440\u0430\u0431\u043E\u0447\u0438\u0435)\\clean\\blazorserver_net6_iwanov_egor\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|solutionrelative:pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|c:\\users\\user\\desktop\\24\u0438\u0441-11-2\\yaga\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0440\u0430\u0431\u043E\u0447\u0438\u0435)\\clean\\blazorserver_net6_iwanov_egor\\pages\\masters.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|solutionrelative:pages\\masters.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|c:\\users\\user\\desktop\\24\u0438\u0441-11-2\\yaga\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0440\u0430\u0431\u043E\u0447\u0438\u0435)\\clean\\blazorserver_net6_iwanov_egor\\pages\\courses.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|solutionrelative:pages\\courses.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|c:\\users\\user\\desktop\\24\u0438\u0441-11-2\\yaga\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0440\u0430\u0431\u043E\u0447\u0438\u0435)\\clean\\blazorserver_net6_iwanov_egor\\shared\\themes\\themesmenu.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|solutionrelative:shared\\themes\\themesmenu.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|c:\\users\\user\\desktop\\24\u0438\u0441-11-2\\yaga\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0440\u0430\u0431\u043E\u0447\u0438\u0435)\\clean\\blazorserver_net6_iwanov_egor\\shared\\themes\\themesbutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|solutionrelative:shared\\themes\\themesbutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|c:\\users\\user\\desktop\\24\u0438\u0441-11-2\\yaga\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0440\u0430\u0431\u043E\u0447\u0438\u0435)\\clean\\blazorserver_net6_iwanov_egor\\auth\\customauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|solutionrelative:auth\\customauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|c:\\users\\user\\desktop\\24\u0438\u0441-11-2\\yaga\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0440\u0430\u0431\u043E\u0447\u0438\u0435)\\clean\\blazorserver_net6_iwanov_egor\\models\\thememanagermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|solutionrelative:models\\thememanagermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|c:\\users\\user\\desktop\\24\u0438\u0441-11-2\\yaga\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432\\\u0434\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0440\u0430\u0431\u043E\u0447\u0438\u0435)\\clean\\blazorserver_net6_iwanov_egor\\pages\\users.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CCE07F0-F0FE-4A73-A5D8-D83595B60179}|BlazorServer_NET6_Iwanov_Egor.csproj|solutionrelative:pages\\users.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Pages\\Register.razor",
+              "RelativeDocumentMoniker": "Pages\\Register.razor",
+              "ToolTip": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Pages\\Register.razor",
+              "RelativeToolTip": "Pages\\Register.razor",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T12:14:13.42Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Pages\\Login.razor",
+              "RelativeToolTip": "Pages\\Login.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T11:06:32.685Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T11:11:25.74Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Pages\\Index.razor",
+              "RelativeToolTip": "Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T10:53:42.742Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddUser.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Pages\\AddUser.razor",
+              "RelativeDocumentMoniker": "Pages\\AddUser.razor",
+              "ToolTip": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Pages\\AddUser.razor",
+              "RelativeToolTip": "Pages\\AddUser.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T10:28:12.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Pages\\Contact.razor",
+              "RelativeDocumentMoniker": "Pages\\Contact.razor",
+              "ToolTip": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Pages\\Contact.razor",
+              "RelativeToolTip": "Pages\\Contact.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T10:27:54.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ThemesButton.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Shared\\Themes\\ThemesButton.razor",
+              "RelativeDocumentMoniker": "Shared\\Themes\\ThemesButton.razor",
+              "ToolTip": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Shared\\Themes\\ThemesButton.razor",
+              "RelativeToolTip": "Shared\\Themes\\ThemesButton.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T09:08:57.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ThemesMenu.razor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Shared\\Themes\\ThemesMenu.razor.cs",
+              "RelativeDocumentMoniker": "Shared\\Themes\\ThemesMenu.razor.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Shared\\Themes\\ThemesMenu.razor.cs",
+              "RelativeToolTip": "Shared\\Themes\\ThemesMenu.razor.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:01:33.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profile.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Pages\\Profile.razor",
+              "RelativeDocumentMoniker": "Pages\\Profile.razor",
+              "ToolTip": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Pages\\Profile.razor",
+              "RelativeToolTip": "Pages\\Profile.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T06:32:26.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Courses.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Pages\\Courses.razor",
+              "RelativeDocumentMoniker": "Pages\\Courses.razor",
+              "ToolTip": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Pages\\Courses.razor",
+              "RelativeToolTip": "Pages\\Courses.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T10:34:15.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Blog.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Pages\\Blog.razor",
+              "RelativeDocumentMoniker": "Pages\\Blog.razor",
+              "ToolTip": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Pages\\Blog.razor",
+              "RelativeToolTip": "Pages\\Blog.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T11:00:18.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Masters.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Pages\\Masters.razor",
+              "RelativeDocumentMoniker": "Pages\\Masters.razor",
+              "ToolTip": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Pages\\Masters.razor",
+              "RelativeToolTip": "Pages\\Masters.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T10:43:20.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ThemeManagerModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Models\\ThemeManagerModel.cs",
+              "RelativeDocumentMoniker": "Models\\ThemeManagerModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Models\\ThemeManagerModel.cs",
+              "RelativeToolTip": "Models\\ThemeManagerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:28:28.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomAuthenticationStateProvider.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Auth\\CustomAuthenticationStateProvider.cs",
+              "RelativeDocumentMoniker": "Auth\\CustomAuthenticationStateProvider.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Auth\\CustomAuthenticationStateProvider.cs",
+              "RelativeToolTip": "Auth\\CustomAuthenticationStateProvider.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:08:31.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Users.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Pages\\Users.razor",
+              "RelativeDocumentMoniker": "Pages\\Users.razor",
+              "ToolTip": "C:\\Users\\user\\Desktop\\24\u0418\u0421-11-2\\Yaga\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0422\u0435\u0441\u0442\u043E\u0432\\\u0414\u0443\u0431\u043B\u0438\u043A\u0430\u0442\u044B \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u043E\u0432 (\u0420\u0430\u0431\u043E\u0447\u0438\u0435)\\Clean\\BlazorServer_NET6_Iwanov_Egor\\Pages\\Users.razor",
+              "RelativeToolTip": "Pages\\Users.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T13:27:28.149Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

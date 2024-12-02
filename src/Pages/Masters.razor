@@ -1,0 +1,54 @@
+﻿@page "/masters"
+
+<MudContainer MaxWidth="MaxWidth.Large">
+    <MudPaper Elevation="1" Class="pa-4">
+        <h1>Наши Мастера</h1>
+
+        <MudGrid>
+            <MudItem xs="12" sm="6" md="4" v-for="master in masters">
+                <MudCard>
+                    <MudCardMedia Image="https://avatars.mds.yandex.net/i?id=573356a80a77f813642a25e7eca40fc2_sr-6220423-images-thumbs&n=13" Title="Анна Иванова" />
+                    <MudCardContent>
+                        <MudText Typo="Typo.h6">Анна Иванова</MudText>
+                        <MudText>Специалист по вязанию, с более чем 10-летним опытом.</MudText>
+                    </MudCardContent>
+                </MudCard>
+            </MudItem>
+            <MudItem xs="12" sm="6" md="4">
+                <MudCard>
+                    <MudCardMedia Image="https://volnorez.com/static/news300/51298/5e0e34cenews_note_597ec307_300.jpg" Title="Сергей Петров" />
+                    <MudCardContent>
+                        <MudText Typo="Typo.h6">Сергей Петров</MudText>
+                        <MudText>Эксперт по вышивке, создает уникальные дизайны.</MudText>
+                    </MudCardContent>
+                </MudCard>
+            </MudItem>
+            <MudItem xs="12" sm="6" md="4">
+                <MudCard>
+                    <MudCardMedia Image="https://www.meme-arsenal.com/memes/d844341d25b8e77ad12420eb9ea978b6.jpg" Title="Мария Смирнова" />
+                    <MudCardContent>
+                        <MudText Typo="Typo.h6">Мария Смирнова</MudText>
+                        <MudText>Керамист, создает изысканные керамические изделия.</MudText>
+                    </MudCardContent>
+                </MudCard>
+            </MudItem>
+        </MudGrid>
+    </MudPaper>
+</MudContainer>
+
+@code {
+    // Примерный список мастеров, если вы хотите динамически отображать мастеров
+    private List<Master> masters = new List<Master>
+    {
+        new Master { Name = "Анна Иванова", ImageUrl = "https://avatars.akamai.steamstatic.com/1d7bd76e8ceea14f5c7f6cf18311284722e6b771_full.jpg", Description = "Специалист по вязанию, с более чем 10-летним опытом." },
+        new Master { Name = "Сергей Петров", ImageUrl = "https://i.pinimg.com/236x/89/c6/9f/89c69f8b40e0ef9311fff1485d5cabe0.jpg?nii=t", Description = "Эксперт по вышивке, создает уникальные дизайны." },
+        new Master { Name = "Мария Смирнова", ImageUrl = "https://avatars.steamstatic.com/d16642b1b49d47fe2a3b0cceaead6132f3e33528_full.jpg", Description = "Керамист, создает изысканные керамические изделия." }
+    };
+
+    public class Master
+    {
+        public string Name { get; set; }
+        public string ImageUrl { get; set; }
+        public string Description { get; set; }
+    }
+}

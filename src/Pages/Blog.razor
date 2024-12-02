@@ -1,0 +1,40 @@
+﻿@page "/blog"
+
+@using Microsoft.AspNetCore.Components.Routing
+
+<MudContainer MaxWidth="MaxWidth.Large" Class="mt-4">
+    <MudTypography Variant="h1" Align="Align.Center">Блог</MudTypography>
+
+    <MudGrid>
+        @foreach (var post in posts)
+        {
+            <MudItem xs="12" sm="6" md="4" Class="mb-4" @key="post.Id">
+                <MudCard>
+                    <MudCardContent>
+                        <MudTypography Variant="h6">@post.Title</MudTypography>
+                        <MudTypography Variant="body2" Class="mt-2">@post.Excerpt</MudTypography>
+                    </MudCardContent>
+                    <MudCardActions>
+                        <MudButton Color="Color.Primary" Variant="Variant.Outlined">Читать далее</MudButton>
+                    </MudCardActions>
+                </MudCard>
+            </MudItem>
+        }
+    </MudGrid>
+</MudContainer>
+
+@code {
+    private List<BlogPost> posts = new List<BlogPost>
+    {
+        new BlogPost { Id = 1, Title = "5 советов по вязанию для начинающих", Excerpt = "В этой статье мы поделимся полезными советами для начинающих вязальщиц..." },
+        new BlogPost { Id = 2, Title = "Как выбрать материалы для вышивки", Excerpt = "Выбор правильных материалов — ключевой момент в вышивке..." },
+        new BlogPost { Id = 3, Title = "Топ-10 идей для керамических изделий", Excerpt = "Ищете вдохновение? Вот 10 идей для ваших керамических проектов..." }
+    };
+
+    private class BlogPost
+    {
+        public int Id { get; set; }
+        public string Title { get; set; }
+        public string Excerpt { get; set; }
+    }
+}
